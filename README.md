@@ -6,8 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/fdcccd5c-0f4c-494b-b064-0d6044fa3ae4)
 
-Ran Over GPU using CUDA - ## time for running each EPOCHS in Microsecond
+###Ran Over GPU using CUDA - ## time for running each EPOCHS in Microsecond
 ![image](https://github.com/yash733/Customer-Churn-Prediction-Using-ANN/assets/100533686/bbb2d1f1-071c-40ec-ae02-27367d5709f2)
 
-Over CPU calling it explicitly - ## time for running each EPOCHS in Milliseconds
+## Over CPU calling it explicitly - ## time for running each EPOCHS in Milliseconds
 ![image](https://github.com/yash733/Customer-Churn-Prediction-Using-ANN/assets/100533686/1bceba0f-40fb-4e0c-ba2e-d2543836d922)
